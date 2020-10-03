@@ -11,12 +11,15 @@
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="30">
 </div>
 
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact)
 
-<!-- https://grass-graph.moshimo.works/ -->
+## 参考
 
-![grass-graph](https://grass-graph.moshimo.works/images/2754github.png)
+- [GitHubのプロフィールが、Markdownで格好よくできるらしい](https://nishipy.com/archives/1585)
+- [Grass-Graph](https://grass-graph.moshimo.works/)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- https://nishipy.com/archives/1585 -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- ![grass-graph](https://grass-graph.moshimo.works/images/2754github.png) -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=2754github) -->
