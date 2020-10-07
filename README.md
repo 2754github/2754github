@@ -1,6 +1,6 @@
 # WIP...✍️
 
-## スキル
+### スキル
 
 <!-- <img src="" width="20"> -->
 <div displey="flex">
@@ -17,7 +17,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact)
 
-## 参考
+### 次やりたいこと（今興味があること）
+
+- `Deno 🦕` によるバックエンドの開発
+- `Next.js` による軽量なアプリの開発
+- `Firebase 🔥` で完結するアプリの開発
+
+
+### 参考
 
 - [GitHubのプロフィールが、Markdownで格好よくできるらしい](https://nishipy.com/archives/1585)
 - [Grass-Graph](https://grass-graph.moshimo.works/)
