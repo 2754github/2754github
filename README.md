@@ -31,15 +31,13 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ここには大まかな経験を記載します。（各機能の実装経験の有無に関してはご質問ください。）
 
-※1 `Rails`のプロジェクトでは`RSpec`を用いたテストを書くことがほとんどです。
-
-※2 データベースには`MySQL`を使うことがほとんどです。
+※ `Rails`プロジェクトでは DB が`MySQL`で、`RSpec`を用いた TDD を行うことがほとんどです。
 
 - `Ruby`+`Ruby on Rails`を用いた Web アプリケーションの開発
 - `TypeScript`+`React`を用いた Web フロントエンドの開発（`Redux` `Material-UI` `Emotion`の経験あり）
 - `Ruby`+`Ruby on Rails`を用いた REST WebAPI の開発
 - `GAS`を用いたアプリケーションの開発（LINE Bot, Slack Bot, 業務効率化系等）
-- `AWS Lambda, S3`を用いたアプリケーションの開発（定期実行するもの, API）
+- `AWS(Lambda, S3)`を用いたアプリケーションの開発（定期実行系, API）
 - `CRA(+TS)`プロジェクトへの`Prettier` `ESLint` `stylelint`の導入（とそれに伴う`VSCode`の設定）
 - `Rails`プロジェクトへの`Docker`の導入
 - `Rails`プロジェクトへの`CircleCI`の導入
@@ -49,13 +47,15 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ## 各種 Web API 等の利用経験
 
-- GitHub
+- Bitly API v4
+- GitHub API v3
 - GitHub Webhooks
-- LINE(Messaging API / Notify)
-- OpenWeatherMap
-- Qiita
-- Twitter
-- YouTube
+- LINE Messaging API
+- LINE Notify
+- Weather API(OpenWeatherMap)
+- Qiita API v2
+- Twitter API
+- YouTube Data API v3
 
 ## 次やりたいこと（今興味があること）
 
