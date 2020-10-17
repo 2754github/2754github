@@ -37,15 +37,15 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 - `TypeScript`+`React`を用いた Web フロントエンドの開発（`Redux` `Material-UI` `Emotion`の経験あり）
 - `Ruby`+`Ruby on Rails`を用いた REST WebAPI の開発
 - `GAS`を用いたアプリケーションの開発（LINE Bot, Slack Bot, 業務効率化系等）
-- `AWS(Lambda, S3)`を用いたアプリケーションの開発（定期実行系, API）
-- `CRA(+TS)`プロジェクトへの`Prettier` `ESLint` `stylelint`の導入（とそれに伴う`VSCode`の設定）
-- `Rails`プロジェクトへの`Docker`の導入
-- `Rails`プロジェクトへの`CircleCI`の導入
+- `AWS(Lambda, S3)`を用いたアプリケーションの開発（定期実行系, スクレイピング API）
+- 既存の`CRA(+TS)`プロジェクトへの`Prettier` `ESLint` `stylelint`の導入（とそれに伴う`VSCode`の設定）
+- 既存の`Rails`プロジェクトへの`Docker`の導入
+- 既存の`Rails`プロジェクトへの`CircleCI`の導入
 - `AWS Amplify`を用いた`CRA(+TS)`アプリケーションのデプロイ
 - `Firebase`を用いた`CRA(+TS)`アプリケーションのデプロイ
 - `AWS(ELB, EC2等)` を用いた`Rails`アプリケーションのデプロイ（HTTPS 化まで行います）
 
-## 各種 Web API 等の利用経験
+## 各種 WebAPI 等の利用経験
 
 - Bitly API v4
 - GitHub API v3
