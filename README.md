@@ -12,7 +12,10 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ## スキル
 
-<!-- <img src="" width="20"> -->
+##### メイン
+
+<!-- <img src="画像アドレス" width="30"> -->
+
 <div displey="flex">
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript_official.svg" width="30">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="30">
@@ -21,6 +24,14 @@ Web 系エンジニア（FE, BE, 時々インフラ）
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" width="30">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_docker.svg" width="30">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="30">
+</div>
+
+##### 最近やり始めたこと
+
+<div displey="flex">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_vue.svg" width="30">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_nuxt.svg" width="30">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_go_gopher.svg" width="30">
 </div>
 
 <br />
