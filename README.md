@@ -12,21 +12,23 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ## スキル
 
-##### メイン
+#### メイン
 
 <!-- <img src="画像アドレス" width="30"> -->
 
 <div displey="flex">
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript_official.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_ruby.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_rails.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_docker.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="30">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_next.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_firebase.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_ruby.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_rails.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_docker.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="50">
 </div>
 
-##### 最近やり始めたこと
+#### 最近やり始めたこと
 
 <div displey="flex">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_vue.svg" width="30">
@@ -40,17 +42,21 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ## 経験
 
+※ Web フロントエンドの開発では、必ず`TypeScript`を使用しています。
+
+※ `Rails`プロジェクトでは、 DB が`MySQL`で`RSpec`を用いた TDD を行うことがほとんどです。
+
 ここには大まかな経験を記載します。（各機能の実装経験の有無に関してはご質問ください。）
 
-※ `Rails`プロジェクトでは DB が`MySQL`で、`RSpec`を用いた TDD を行うことがほとんどです。
-
-- `Ruby`+`Ruby on Rails`を用いた Web アプリケーションの開発
-- `TypeScript`+`React`を用いた Web フロントエンドの開発（`Redux` `Material-UI` `Emotion`の経験あり）
-- `Ruby`+`Ruby on Rails`を用いた REST WebAPI の開発
+- `React`を用いた Web フロントエンドの開発（`Redux` `Material-UI` `Emotion`）
+- `Next.js`を用いた JAMstack アプリケーションの開発
+- `Rails`を用いた Web バックエンド（REST WebAPI）の開発
+- `Rails`を用いた Web アプリケーションの開発
 - `GAS`を用いたアプリケーションの開発（LINE Bot, Slack Bot, 業務効率化系等）
 - `AWS(Lambda, S3)`を用いたアプリケーションの開発（定期実行系, スクレイピング API）
 - 既存の`CRA(+TS)`プロジェクトへの`Prettier` `ESLint` `stylelint`の導入（とそれに伴う`VSCode`の設定）
 - 既存の`Rails`プロジェクトへの`Docker`の導入
+- 既存の`Go`プロジェクトへの`Docker`の導入
 - 既存の`Rails`プロジェクトへの`CircleCI`の導入
 - `AWS Amplify`を用いた`CRA(+TS)`アプリケーションのデプロイ
 - `Firebase`を用いた`CRA(+TS)`アプリケーションのデプロイ
@@ -70,8 +76,7 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ## 次やりたいこと（今興味があること）
 
-- `Deno 🦕` による API 開発
-- `Next.js` によるアプリ開発
+- `Deno 🦕`を用いた API 開発
 
 ## 参考
 
