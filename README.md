@@ -12,31 +12,41 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 ## スキル
 
-#### メイン
-
 <!-- <img src="画像アドレス" width="30"> -->
+
+<a href="https://github.com/2754github/2754github/">
+  <img src="https://komarev.com/ghpvc/?username=2754github" />
+</a>
+<a href="https://github.com/2754github">
+  <img src="https://img.shields.io/github/followers/2754github?label=follow&logo=github&style=flat" />
+</a>
+<a href="https://twitter.com/2754_quarter">
+  <img src="https://img.shields.io/twitter/follow/2754_quarter?label=Twitter&logo=twitter&style=flat" />
+</a>
+<a href="https://qiita.com/2754github">
+  <img src="https://qiita-badge.apiapi.app/s/2754github/posts.svg" />
+</a>
+<a href="https://qiita.com/2754github">
+  <img src="https://qiita-badge.apiapi.app/s/2754github/contributions.svg" />
+</a>
+<a href="https://qiita.com/2754github">
+  <img src="https://qiita-badge.apiapi.app/s/2754github/followers.svg" />
+</a>
 
 <div displey="flex">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_next.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_firebase.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_ruby.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_rails.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_docker.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_next.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_firebase.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_ruby.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_rails.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_docker.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_vue.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_nuxt.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_go_gopher.svg" width="40" />
 </div>
-
-#### 最近やり始めたこと
-
-<div displey="flex">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_vue.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_nuxt.svg" width="30">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_go_gopher.svg" width="30">
-</div>
-
-<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact)
 
@@ -83,6 +93,7 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 - [GitHub のプロフィールが、Markdown で格好よくできるらしい](https://nishipy.com/archives/1585)
 - [Grass-Graph](https://grass-graph.moshimo.works/)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
 
 <!-- ![grass-graph](https://grass-graph.moshimo.works/images/2754github.png) -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=2754github) -->
