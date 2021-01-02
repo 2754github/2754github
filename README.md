@@ -33,6 +33,8 @@ Web 系エンジニア（FE, BE, 時々インフラ）
   <img src="https://qiita-badge.apiapi.app/s/2754github/followers.svg" />
 </a>
 
+<br />
+
 <div displey="flex">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" width="50">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="50" />
@@ -48,7 +50,14 @@ Web 系エンジニア（FE, BE, 時々インフラ）
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_go_gopher.svg" width="40" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact)
+<br />
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=2754github&count_private=true&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=2754github&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 経験
 
@@ -96,4 +105,3 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 - [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
 
 <!-- ![grass-graph](https://grass-graph.moshimo.works/images/2754github.png) -->
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=2754github) -->
