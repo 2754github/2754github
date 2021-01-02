@@ -14,24 +14,26 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 
 <!-- <img src="画像アドレス" width="30"> -->
 
-<a href="https://github.com/2754github/2754github/">
-  <img src="https://komarev.com/ghpvc/?username=2754github" />
-</a>
-<a href="https://github.com/2754github">
-  <img src="https://img.shields.io/github/followers/2754github?label=follow&logo=github&style=flat" />
-</a>
-<a href="https://twitter.com/2754_quarter">
-  <img src="https://img.shields.io/twitter/follow/2754_quarter?label=Twitter&logo=twitter&style=flat" />
-</a>
-<a href="https://qiita.com/2754github">
-  <img src="https://qiita-badge.apiapi.app/s/2754github/posts.svg" />
-</a>
-<a href="https://qiita.com/2754github">
-  <img src="https://qiita-badge.apiapi.app/s/2754github/contributions.svg" />
-</a>
-<a href="https://qiita.com/2754github">
-  <img src="https://qiita-badge.apiapi.app/s/2754github/followers.svg" />
-</a>
+<p align="left"> 
+  <a href="https://github.com/2754github/2754github/">
+    <img src="https://komarev.com/ghpvc/?username=2754github" />
+  </a>
+  <a href="https://github.com/2754github">
+    <img src="https://img.shields.io/github/followers/2754github?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://twitter.com/2754_quarter">
+    <img src="https://img.shields.io/twitter/follow/2754_quarter?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://qiita.com/2754github">
+    <img src="https://qiita-badge.apiapi.app/s/2754github/posts.svg" />
+  </a>
+  <a href="https://qiita.com/2754github">
+    <img src="https://qiita-badge.apiapi.app/s/2754github/contributions.svg" />
+  </a>
+  <a href="https://qiita.com/2754github">
+    <img src="https://qiita-badge.apiapi.app/s/2754github/followers.svg" />
+  </a>
+</p>
 
 <div displey="flex">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" width="50">
@@ -49,8 +51,8 @@ Web 系エンジニア（FE, BE, 時々インフラ）
 </div>
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact&count_private=true&show_icons=true" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=2754github&count_private=true&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=2754github&count_private=true&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2754github)](https://github.com/ryo-ma/github-profile-trophy)
