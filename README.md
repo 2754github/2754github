@@ -34,34 +34,42 @@
 
 ### フロントエンド
 
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="50">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_next.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js_official.svg" width="50">
+<div displey="flex">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="50">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_next.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js_official.svg" width="50">
+</div>
 
 ### バックエンド
 
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ruby.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rails.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" width="50" />
+<div displey="flex">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ruby.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rails.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" width="50" />
+</div>
 
 ### インフラ
 
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_circleci.svg" width="50" />
+<div displey="flex">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_circleci.svg" width="50" />
+</div>
 
 ### データベース（RDBMS/NoSQL）
 
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="50" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firestore.svg" width="50" />
-<img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="50" />
+<div displey="flex">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firestore.svg" width="50" />
+  <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="50" />
+</div>
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact&count_private=true&show_icons=true" />
