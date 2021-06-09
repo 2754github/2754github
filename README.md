@@ -1,5 +1,3 @@
-## 自己紹介
-
 <p align="left">
   <a href="https://github.com/2754github/2754github/">
     <img src="https://komarev.com/ghpvc/?username=2754github" />
@@ -21,38 +19,49 @@
   </a>
 </p>
 
-"2754"と書いて"ふなこし"と読みます。フリーランスの Web 系エンジニアです！
+# 自己紹介
 
-フロントエンド、バックエンド、時々インフラ。（お仕事の依頼は fkesys@gmail.com まで 🙇‍♂️）
+"2754"と書いて"ふなこし"です。ヤフーでエンジニアをしています。
+<br />
+さまざまな技術領域に挑戦したく、副業もしております！
+<br />
+お仕事のご依頼は fkesys@gmail.com まで 🙇‍♂️
 
-## 普段やっていること
+# スキル
 
-プロジェクトを`企画` `設計` `実装` `テスト` `運用`と分けた場合の、`設計` `実装`の部分をメインに行っています。
+<!-- アイコンはこちらから -->
+<!-- https://github.com/vscode-icons/vscode-icons/tree/master/icons -->
 
-また、[**MENTA**](https://menta.work/plan/2019)にて初学者の方向けのメンターとしても活動しています。（自分が開発するだけでなく、`日本のIT力`の底上げにも寄与したいと考えているため。）
+### フロントエンド
 
-初学者の方がつまづきがちな「`AWS`へのポートフォリオのデプロイ」「開発環境の整備（`ESLint`や`Docker`の導入）」「`CircleCI`の導入」のお手伝いから、「ネットワークの基礎知識」「`AWS(VPC, EC2)`の基礎知識」といった講義形式のものまで幅広く行なっています。
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="50">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_next.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js_official.svg" width="50">
 
-＞＞＞＞ [**職務経歴書**](https://github.com/2754github/2754github/blob/master/職務経歴書.md) ＜＜＜＜
+### バックエンド
 
-## スキル
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ruby.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rails.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" width="50" />
 
-<!-- <img src="画像アドレス" width="30"> -->
+### インフラ
 
-<div displey="flex">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" width="50">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_next.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_firebase.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_ruby.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_rails.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_docker.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_light_circleci.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_vue.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_nuxt.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_go_gopher.svg" width="30" />
-</div>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_circleci.svg" width="50" />
+
+### データベース（RDBMS/NoSQL）
+
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="50" />
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firestore.svg" width="50" />
+<img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="50" />
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2754github&layout=compact&count_private=true&show_icons=true" />
@@ -61,14 +70,19 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2754github)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 今興味があること（今後やりたいこと）
+# 職務経歴
 
+＞＞＞＞ [**職務経歴書**](https://github.com/2754github/2754github/blob/master/職務経歴書.md) ＜＜＜＜
+
+# 今興味があること（今後やりたいこと）
+
+- `Supabase`
 - `Tailwind CSS`
 - `Deno 🦕`を用いた API 開発
 - `Capistrano`
 - `RuboCop`
 
-## 参考
+# 参考
 
 - [GitHub のプロフィールが、Markdown で格好よくできるらしい](https://nishipy.com/archives/1585)
 - [Grass-Graph](https://grass-graph.moshimo.works/)
