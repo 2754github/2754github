@@ -78,6 +78,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2754github)](https://github.com/ryo-ma/github-profile-trophy)
 
+# バリューを発揮しやすい業務
+
+- React + TypeScript を用いたフロントエンド開発業務
+- Ruby on Rails を用いたバックエンド（REST、GraphQL）開発業務
+- AWS を用いたインフラ構築業務
+
 # 職務経歴
 
 ＞＞＞＞ [**職務経歴書**](https://github.com/2754github/2754github/blob/master/職務経歴書.md) ＜＜＜＜
